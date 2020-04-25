@@ -1,0 +1,11 @@
+main: me.Shane.Shane_Plugin.MainClass
+name: ShanePlugin
+version: V1
+author: Shane Matthew Kelly
+
+commands:
+  info:
+  weather-change:
+  level-change:
+  firework-blue:
+  firework-red:
